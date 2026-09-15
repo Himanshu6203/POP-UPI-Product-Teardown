@@ -2,7 +2,7 @@
 
 A 13-slide product teardown of **POP**, a UPI payments app built around a rewards currency (POPcoins) and a D2C shopping marketplace. Written as a standalone PM case study — independent analysis, not affiliated with or endorsed by POP.
 
-**[View the deck (PDF)](./pop_upi_teardown .pdf)** · **[Download the editable PPTX](./pop_upi_teardown .pptx)**
+**[View the deck (PDF)](./pop_upi_teardown.pdf)** · **[Download the editable PPTX](./pop_upi_teardown.pptx)**
 
 ## TL;DR
 
